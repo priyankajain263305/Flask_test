@@ -1,0 +1,178 @@
+absl-py @ file:///C:/ci/absl-py_1600279486584/work
+aiofiles==0.5.0
+aiohttp @ file:///C:/ci/aiohttp_1602512552257/work
+APScheduler==3.6.3
+astor==0.8.1
+astunparse==1.6.3
+async-generator==1.10
+async-timeout==3.0.1
+attrs @ file:///tmp/build/80754af9/attrs_1600298409949/work
+Automat==20.2.0
+blinker==1.4
+boto3==1.15.17
+botocore==1.18.17
+brotlipy==0.7.0
+cachetools @ file:///tmp/build/80754af9/cachetools_1596822027882/work
+certifi==2020.6.20
+cffi @ file:///C:/ci/cffi_1600681203656/work
+chardet==3.0.4
+click==7.1.2
+cloudpickle==1.3.0
+colorama==0.4.4
+colorclass==2.2.0
+coloredlogs==10.0
+colorhash==1.0.2
+ConfigArgParse==0.13.0
+constantly==15.1.0
+contextvars==2.4
+cryptography @ file:///C:/ci/cryptography_1601046909128/work
+cycler==0.10.0
+cymem==2.0.3
+decorator==4.4.2
+dill==0.2.9
+dm-tree==0.1.5
+dnspython==1.16.0
+docopt==0.6.2
+fakeredis==0.10.3
+fbmessenger==5.0.0
+Flask==1.0.2
+Flask-Cors==3.0.7
+Flask-JWT-Simple==0.0.3
+future==0.17.1
+gast==0.3.3
+gevent==1.4.0
+google-auth @ file:///tmp/build/80754af9/google-auth_1601995530934/work
+google-auth-oauthlib==0.4.1
+google-pasta==0.2.0
+greenlet==0.4.17
+grpcio @ file:///C:/ci/grpcio_1597406495377/work
+h11==0.9.0
+h5py==2.10.0
+httpcore==0.11.1
+httplib2==0.18.1
+httptools==0.1.1
+httpx==0.15.4
+humanfriendly==8.2
+hyperlink==20.0.1
+idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+idna-ssl==1.1.0
+immutables==0.14
+importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396/work
+incremental==17.5.0
+itsdangerous==1.1.0
+Jinja2==2.11.2
+jmespath==0.10.0
+joblib==0.15.1
+jsonpickle==1.4.1
+jsonschema==2.6.0
+kafka-python==2.0.2
+Keras-Applications==1.0.6
+Keras-Preprocessing==1.0.5
+kiwisolver==1.2.0
+klein==17.10.0
+Markdown @ file:///C:/ci/markdown_1602673076239/work
+MarkupSafe==1.1.1
+matplotlib==3.3.2
+mattermostwrapper==2.2
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+msgpack==0.5.6
+msgpack-numpy==0.4.3.2
+multidict @ file:///C:/ci/multidict_1600456490312/work
+murmurhash==1.0.2
+networkx==2.5
+numpy==1.16.0
+oauth2client==4.1.3
+oauthlib==3.1.0
+opt-einsum==3.1.0
+packaging==18.0
+pika==0.12.0
+Pillow==8.0.0
+plac==0.9.6
+prompt-toolkit==2.0.10
+protobuf==3.13.0
+psycopg2-binary==2.8.6
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pydot==1.4.1
+PyHamcrest==2.0.2
+PyJWT==1.7.1
+pykwalify==1.7.0
+pymongo==3.10.1
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1594392929924/work
+pyparsing==2.4.7
+pyreadline==2.1
+pyrsistent==0.17.3
+PySocks==1.7.1
+python-crfsuite==0.9.7
+python-dateutil==2.8.1
+python-engineio==3.13.2
+python-socketio==3.0.0
+python-telegram-bot==11.1.0
+pytz==2018.9
+PyYAML==5.3.1
+questionary==1.5.2
+rasa==2.0.0
+rasa-core==0.13.8
+rasa-core-sdk==0.12.2
+rasa-nlu==0.14.6
+rasa-sdk==2.0.0
+redis==2.0.0
+regex==2020.9.27
+requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+requests-oauthlib==1.3.0
+requests-toolbelt==0.9.1
+rfc3986==1.4.0
+rocketchat-API==0.6.36
+rsa @ file:///tmp/build/80754af9/rsa_1596998415516/work
+ruamel.yaml==0.15.0
+ruamel.yaml.clib==0.2.2
+s3transfer==0.3.3
+sanic==20.9.0
+Sanic-Cors==0.10.0.post3
+sanic-jwt==1.4.1
+Sanic-Plugins-Framework==0.9.4
+scikit-learn==0.20.0
+scipy==1.4.1
+sentry-sdk==0.17.8
+simplejson==3.17.2
+six==1.12.0
+sklearn-crfsuite==0.3.6
+slackclient==1.0.0
+sniffio==1.2.0
+SQLAlchemy==1.3.20
+tabulate==0.8.7
+tensorboard==1.12.2
+tensorboard-plugin-wit==1.6.0
+tensorflow==1.12.0
+tensorflow-addons==0.11.2
+tensorflow-estimator==2.3.0
+tensorflow-hub==0.9.0
+tensorflow-probability==0.11.1
+termcolor==1.1.0
+terminaltables==3.1.0
+threadpoolctl==2.1.0
+toolz==0.11.1
+tornado==6.0.4
+tqdm==4.50.2
+twilio==6.45.4
+Twisted==20.3.0
+typeguard==2.9.1
+typing==3.6.6
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1598376058250/work
+tzlocal==2.1
+ujson==1.35
+urllib3 @ file:///tmp/build/80754af9/urllib3_1597086586889/work
+wcwidth==0.2.5
+webexteamssdk==1.6
+websocket-client==0.54.0
+websockets==8.1
+Werkzeug==0.16.1
+win-inet-pton==1.1.0
+wincertstore==0.2
+wrapt==1.12.1
+yarl==1.5.1
+zipp @ file:///tmp/build/80754af9/zipp_1602002379921/work
+zope.interface==5.1.2
